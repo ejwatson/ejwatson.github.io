@@ -10,6 +10,6 @@ My MPH research examines how racial and economic segregation across Chicago neig
 
 My work has been supported by a National Science Foundation Graduate Research Fellowship and an NIH National Research Service Award F31 Fellowship from the National Institute on Aging.
 
-You can [view my CV here](cv/).
+You can [view my CV here](/docs/assets/cv/).
 
 Find me on [LinkedIn](http://www.linkedin.com/in/elijahjiles) and [Bluesky](https://bsky.app/profile/elijahjwatson.bsky.social).
